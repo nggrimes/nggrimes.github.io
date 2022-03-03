@@ -1,0 +1,9 @@
+---
+title: "Nathaniel Grimes CV"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<a href='grimes_cv.pdf' target = '_blank'>Please click here for a download of my CV</a>
