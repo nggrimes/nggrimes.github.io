@@ -1,6 +1,6 @@
 ---
 title: "Nathaniel Grimes"
-image: "nathan grimes.jpeg"
+image: "images/nathan grimes.jpeg"
 links:
   - label: GitHub
     url: "http://github.com/nggrimes"
@@ -13,7 +13,9 @@ output:
  
 ## Bio
 
-Nathaniel Grimes is a PhD Student in the Bren School of Environmental Science and Managmeent at the University of California at Santa Barbara. 
+I'm a PhD Student in the Bren School of Environmental Science and Management at the University of California at Santa Barbara. My research seeks to integrate financial tools into natural resource conservation. Leveraging private capital can lead to improved ecological conditions, better economic livelihoods, and greater community resilience. I focus primarily in marine environments and communities, but my research builds on, and potentially expands, science in other natural resources like agriculture and forestry. Improvements through financial innovation are driven by two avenues. First, private finance closes the "conservation funding gap". Managers and resource users are often budget constrained and don't have the necessary initial capital to make changes. Check out my projects on impact investing in fishery quota markets to learn more. 
+
+Second, financial tools ellicit behavior change. If structured correctly, they may be able to incentivize positive behavior change for resource conservation. Check out my projects on Fisheries Insurance to learn more!
 
 ## Education
 
