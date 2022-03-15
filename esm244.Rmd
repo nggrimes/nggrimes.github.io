@@ -1,0 +1,39 @@
+---
+title: "Advance Data Analysis"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## For Current Students
+
+All class materials are stored on [Gauchospace](https://gauchospace.ucsb.edu)
+
+Here is my [github repo](https://github.com/nggrimes) we ocassionally use in lab and where you can access all the code used to generate lecture slides in Rmarkdown.
+
+## Class Objectives
+
+1. Train environmental scientists in advance data analysis techniques
+
+2. Teach best data practices for reproducible science and collaborative research
+
+3. Develop data communciation skills through Shiny Apps and visualizations
+
+4. Build data wrangling skills to tackle diverse datasets
+
+## Topics Covered
+
+Machine Learning
+
+Model Building
+
+Time Series
+
+Spatial Data Analsyis
+
+Text mining
+
+Webscraping and API use
+
+## Student Output demonstrations

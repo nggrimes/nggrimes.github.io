@@ -11,4 +11,8 @@ navbar:
       href: CV.html
     - text: "Blog"
       href: blog.html
+    - text: "Teaching"
+      menu:
+      - text: "Advance Data Analysis (ESM 244)"
+        href: esm244.html
 output: distill::distill_article
