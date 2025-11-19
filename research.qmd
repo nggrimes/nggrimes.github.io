@@ -1,0 +1,25 @@
+---
+title: "Research"
+---
+
+## Current Research
+
+### Index Insurance in Fisheries
+
+1. **The behavioral effects of of index insurance in fisheries**  
+   Authors: **Nathaniel Grimes**, Christopher Costello, and Andrew Plantinga
+   Status: Working Paper (Draft)  
+   Abstract:
+
+Fisheries are vulnerable to environmental shocks that impact stock health and fisher income. Index insurance is a promising financial tool to protect fishers from environmental risk. However, insurance may change fisher’s behavior. It is imperative to understand the direction fishers change their behavior before implementing new policies as fisheries are vulernable to overfishing. We provide the first theoretical application of index insurance on fisher’s behavior change to predict if index insurance will incentivize higher or lower harvests in unregulated settings. We find that using traditional fishery models with production variability only originating through stock abundance leads fishers to increase harvest with index insurance. However, fishers are adaptable and experience multiple sources of risk. Using a more flexible specification of production shows that index insurance could raise or lower harvest depening on the risk mitigation stragtegies available for fishers and the design of the insurance contract. We demonstrate the magnitude of potential change by simulating from parameters estimated for three Norwegian fisheries. Fisheries with index insurance contracts protecting extraction risks may increase harvest by 10% or decrease by 2% depending on the risk effects of inputs. Insurance contracts protecting stock risk will lead to 6-20% increases in harvest. Before widespread adoption, careful consideration must be given to how index insurance will incentivize or disincentivize overfishing.
+
+[Read the working paper draft here](media/ibi-behavior.pdf){target="_blank"}
+
+2. **Finding suitable wather indices for novel fisheries index insurance**
+   Authors: **Nathaniel Grimes**
+   Status: Working Paper (Draft)  
+   Abstract:
+   
+Index insurance is a financial tool gaining traction for application in fisheries. However, identifying weather indicies to serve as triggers remains a significant barrier to widespread implementation. Weak correlations between weather variables and catch will lead to substaintial basis risk. This paper is the first to empirically evaluate the feasibility of index insurance for fisheries. I use the Market Squid Fishery in California as a case study to test insurance contracts built on five different prediction models with twelve weather variables.  Only three weather variables in single index contracts improved fisher welfare at an actuarially fair premium. Only the index with krill abundance was profitable for insurance companies.  All four multivariatve models improved utility from a range of 5%-35% at actuarially fair premiums. When charging a competitive market premium, the random forest, regularized random forest, and support vector machine were profitable for insurance. Index insurance is feasible in a private market, and provides fishers with protection against environmental variability.
+
+[Read the working paper draft here](media/ibi-ml.pdf){target="_blank"}

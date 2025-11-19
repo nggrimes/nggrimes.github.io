@@ -1,13 +1,20 @@
 project:
   type: website
+  output-dir: docs
+  resources:
+    - media/**
 
 website:
-  title: "nggrimes.github.io"
+  title: "Nathaniel Grimes"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+        
 
 format:
   html:
