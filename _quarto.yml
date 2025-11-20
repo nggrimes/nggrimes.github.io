@@ -18,7 +18,9 @@ website:
 
 format:
   html:
-    theme: [default, theme.scss]
+    theme: 
+      - default 
+      - theme.scss
     toc: true
     include-in-header: "_includes/header.html"
 
