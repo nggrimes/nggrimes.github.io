@@ -3,38 +3,48 @@ title: "Nathaniel Grimes"
 image: media/headshot.jpg
 toc: false
 about: 
-  template: jolla
+  template: trestles
   image-shape: round
   image-width: 17em
   links:
-    - text: GitHub
+    - icon: github
       href: http://github.com/nggrimes
     - text: Email
       href: mailto:nggrimes@ucsb.edu
     - text: CV
       href: media/Nathaniel_Grimes_CV.pdf
       target: _blank
+    - text: '<i class="ai ai-google-scholar fa-lg"></i>'
+      href: https://scholar.google.com/citations?user=KXuS1a0AAAAJ&hl=en&authuser=1
+    - text: '<img src="media/vball.png" width="18" style="vertical-align:middle; margin-right:6px;"> Volleyball Profile'
+      href: https://cbva.com/p/nggrimes
+      target: _blank
 
 ---
+
+### Welcome to my academic website!
 
 I am an environmental economist and data scientist exploring the intersections of environmental policy, natural resource management, and socio-economic systems. My research focuses on understanding how economic incentives and policies can be designed to promote sustainable environmental outcomes while considering social equity and community well-being.
 
 I focus on marine communities as the ocean captured my imagination as a child. In life before graduate school, I studied shark ecology in the bays of South Carolina and the tropical waters of the Bahamas. I am particularly interested in how coastal communities can adapt to environmental changes, such as climate change and resource depletion, through innovative policy solutions and community engagement. Please examine my research profile to stay up to date on my projects!
 
 
-
 When I'm not working, I'm probably diving, hiking, or playing beach volleyball. I worked hard to earn a AA rating on the CBVA beach volleyball circuit. Now I coach youth volleyball (Go Royals!) and find more passion in their success than my own.
 
-## Education
+### Education
 
-**The University of California at Santa Barbara** | Santa Barbara, CA
+**The University of California at Santa Barbara**
+Santa Barbara, CA
 
-Ph.D. in Environmental Science and Management | 2018 - Present
+Ph.D. in Environmental Science and Management
+2018 - Present
 
-**The University of California at Santa Barbara** | Santa Barbara, CA
+**The University of California at Santa Barbara**
+Santa Barbara, CA
 
-MESM in Master's of Environmental Science and Management | 2016 - 2018
+MESM in Master's of Environmental Science and Management |
 *Economics and Politics of the Environment Specialization*
+2016 - 2018
 
 **Coastal Carolina University ** | Conway, SC
 

@@ -7,7 +7,7 @@ project:
 website:
   title: "Nathaniel Grimes"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - href: research.qmd
@@ -18,9 +18,8 @@ website:
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: [default, theme.scss]
     toc: true
+    include-in-header: "_includes/header.html"
 
-editor: visual
 
