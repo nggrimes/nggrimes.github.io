@@ -19,7 +19,6 @@ about:
     - text: '<img src="media/vball.png" width="18" style="vertical-align:middle; margin-right:6px;"> Volleyball Profile'
       href: https://cbva.com/p/nggrimes
       target: _blank
-
 ---
 
 ### Welcome to my academic website!
