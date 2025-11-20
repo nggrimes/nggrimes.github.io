@@ -271,3 +271,35 @@ pre {
   height: 100%;
   border: 2px solid #5654A2;
 }
+
+
+
+.hero-image {
+  /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("media/chile-boats.JPG");
+
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;  // vertical centering
+  align-items: center;      // horizontal centering
+  padding: 6rem 2rem;       // height of the banner
+  min-height: 300px;        // minimum height
+  text-align: center;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  
+  color: white;             // text color
+}
+
+/* Place text in the middle of the image */
+.hero-text {
+  position: relative;       // relative to .hero-image
+  z-index: 2;               // make sure it sits above the overlay
+}
+
+.hero-text h1 {
+  font-size: clamp(2rem, 6vw, 4rem); // responsive font size
+  margin: 0;
+}

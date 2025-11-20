@@ -18,10 +18,11 @@ website:
 
 format:
   html:
+    include-before-body: "_includes/header.html"
     theme: 
       - default 
       - theme.scss
-    toc: true
-    include-in-header: "_includes/header.html"
+    toc: false
+
 
 

@@ -5,3 +5,16 @@ title: "Teaching"
 **Under Construction**
 
 I'm updating website server to Quarto. Teaching information will be back soon.
+
+Below is a list of past courses I taught as the instructor of record. If you want to see the complete list of courses as a TA or guest lecturer, please see my CV [here](media/Nathaniel_Grimes_CV.pdf){target="_blank"}.
+
+# UCSB Courses
+
+
+## ENVS 117: Transistion to Low Carbon Societies
+
+## ESM 244: Advance Data Analysis
+
+## Calculus Bootcamp for MESM
+
+The class website contains all relevant information for the bootcamp including lecture notes, videos, assignments, and datasets: [Calculus Bootcamp Website](https://nathangrimes.github.io/brencalculus){target="_blank"}
